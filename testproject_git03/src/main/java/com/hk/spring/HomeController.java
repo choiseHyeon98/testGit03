@@ -35,6 +35,7 @@ public class HomeController {
 		
 		return "home";
 		//dndod
+		//나 돌아갈래애애애애애ㅐㅐㅐㅐ
 	}
 	
 }
